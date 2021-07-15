@@ -21,5 +21,6 @@ footer {
 }
 
 #wrapper {
+    width: 1000px;
     display: flex;
 }
